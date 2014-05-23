@@ -1,0 +1,11 @@
+a {
+  color: #333;
+}
+
+.navbar-custom .nav li a.current, .navbar-custom .nav li a:active {
+  border-bottom: 3px solid #333;
+}
+
+.navbar-custom .nav li a {
+  color: #333;
+}
